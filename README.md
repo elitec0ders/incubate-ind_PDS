@@ -4,10 +4,10 @@ Project for One Hack India, organised by Incubate Ind.
 
 ## Team Members
 
-- [Manish Sharma](https://www.linkedin.com/in/manish-sharma-7879551a4)
-- [Mukul Jandig]()
-- [Rupasi Yadav]()
-- [Samyak Bardiya](https://www.linkedin.com/in/samyak039/)
+- [**Manish Sharma**](https://www.linkedin.com/in/manish-sharma-7879551a4)
+- [**Mukul Jangid**]()
+- [**Rupasi Yadav**](https://www.linkedin.com/in/rupasi-yadav-1941471a4)
+- [**Samyak Bardiya**](https://www.linkedin.com/in/samyak039/)
 
 ## IDEA
 
