@@ -5,14 +5,14 @@ Project for One Hack India, organised by Incubate Ind.
 ## Team Members
 
 - [**Manish Sharma**](https://www.linkedin.com/in/manish-sharma-7879551a4)
-- [**Mukul Jangid**]()
+- [**Mukul Jangid**](https://www.linkedin.com/in/mukul-jangid-573a4a18b)
 - [**Rupasi Yadav**](https://www.linkedin.com/in/rupasi-yadav-1941471a4)
 - [**Samyak Bardiya**](https://www.linkedin.com/in/samyak039/)
 
 ## IDEA
 
 We are planning to make a website portal for a Blood Bank which can organise all there interaction
-with donor or requester.
+with donor or requester. 
 
 ### Features
 
