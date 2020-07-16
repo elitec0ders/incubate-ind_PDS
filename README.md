@@ -11,13 +11,13 @@ Project for One Hack India, organised by Incubate Ind.
 
 ## IDEA
 
-We are planning to make a website portal for a Blood Bank which can organise all there interaction
-with donor or requester. 
+We are planning to make a **web portal** for a Blood Bank, it will be able to organise all the
+interaction between donor and requester.
 
 ### Features
 
 1. Simple Log-in / Sign-up process, same for all.
-2. Members can apply for donate or can request for blood or other organs.
+2. Members can apply for donation or request the donor.
 3. Things which can be donated:
     - while alive:
         - blood
@@ -37,8 +37,8 @@ with donor or requester.
     1. **Donate Now**: donor will be appointed a hospital where he/she can go and donate at the
        appointed time.
     2. **As per Request**: whenever someone requests we will shortlist the members and give the list
-       of the shortlisted members to the requester and a notification to all the shortlisted members
-       for the request.
+       of the shortlisted members to the requester and all the shortlisted members will receive a
+       notification for the same.
 6. We will be making a list of hospitals (for now, only state-wide coverage; but will expand in
    future) so that we can appoint donations to there nearest hospitals.
 7. Due to COVID-19, we will make an appointment system, which will have the following features:
