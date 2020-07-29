@@ -1,6 +1,6 @@
-# Blood Bank
+# PDS (Public distribution system)
 
-Project for One Hack India, organised by Incubate Ind.
+Public distribution system for poor and needy. This could be around food, medicines or any other basic essential supplies
 
 ## Team Members
 
@@ -9,43 +9,56 @@ Project for One Hack India, organised by Incubate Ind.
 - [**Rupasi Yadav**](https://www.linkedin.com/in/rupasi-yadav-1941471a4)
 - [**Samyak Bardiya**](https://www.linkedin.com/in/samyak039/)
 
+
 ## IDEA
 
-We are planning to make a **web portal** for a Blood Bank, it will be able to organise all the
-interaction between donor and requester.
+Our IDEA in order:
 
-### Features
+### Raise funds:
 
-1. Simple Log-in / Sign-up process, same for all.
-2. Members can apply for donation or request the donor.
-3. Things which can be donated:
-    - while alive:
-        - blood
-        - bone marrow
-        - kidney
-        - lung
-        - liver
-        - pancreas
-        - intestine
-    - after death
-        - whole body (highly appreciated)
-        - eyes
-4. We will be making the following action buttons:
-    1. **Donate Now**: members can donate right now
-    2. **Request**: members can request other members 
-5. Donation will be held in two process
-    1. **Donate Now**: donor will be appointed a hospital where he/she can go and donate at the
-       appointed time.
-    2. **As per Request**: whenever someone requests we will shortlist the members and give the list
-       of the shortlisted members to the requester and all the shortlisted members will receive a
-       notification for the same.
-6. We will be making a list of hospitals (for now, only state-wide coverage; but will expand in
-   future) so that we can appoint donations to there nearest hospitals.
-7. Due to COVID-19, we will make an appointment system, which will have the following features:
-    - We will only appoint one donor for a single time-slot (one time-slot will be of 30 minutes).
-    - After every donation the hospitals will have ample amount of time so that they can sanitize.
-    - The normal guideline given by the government will be followed:
-        - every persons temperature will be monitored before entering the premises
-        - they should sanitize there hands at the gate
-        - they should wear mask at all time
-8. 
+- Request Government to give us funds to initialize our project, we present this same project to
+  them, so that they can see our work and dedication and then give us funds accordingly.
+- Collect donations from individuals and organisations.
+- Request the manufacturing companies to donate or sell there goods at low price.
+- **Sell goods and put all the profit in this project.**
+    - This will be our main source of funds.
+    - We will try to make personalised masks and sanitizers of different scents so that it will
+      attract more and more consumers and we will be able to help more and more needy peoples.
+    - More about this [later on](#sell-to-distribute).
+
+### Provide Jobs to needy
+
+We'll try to hire those who are needy and desperate to earn a living for there family.
+
+- Tailors, to manufacture masks at large scale.
+- Artists, to create designed masks and also custom masks for customers.
+- Heavy vehicle drivers, to transport goods from manufacturing center to our warehouse and
+  from warehouse to our camps.
+- Light vehicle drivers, to deliver products from our warehouse to customers door.
+- Helpers, to help in our chores.
+
+### Sell to Distribute
+<!-- TODO: iski heading ka kuch idea do, thoda catchy hona chahiya -->
+
+- We will be making customised masks and sanitizers to attract more and more customers.
+
+Customers will buy them and we will put all our profit in this project
+
+### Distribution System
+
+- We will setup camps near to the places where there are plenty of needy peoples.
+    - Ex: slum areas, poor urban and rural areas etc.
+- We will collect all our goods at the warehouse and then transport them as needed to the camps
+<!-- TODO: more points in this section -->
+
+### Ask for volunteers
+
+- As we spread we will start taking helps from volunteers
+- But before assigning them tasks we will take a personal interview of them to get a decent idea of
+  there personal nature, so as to remove any hassle in future.
+
+### Marketing
+
+- We will market ourselves:
+    - as an E-commerce site on major social platforms
+    - as a Free Distributing Organisation on small pamphlets at all the needy places.
