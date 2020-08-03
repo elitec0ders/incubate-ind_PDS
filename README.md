@@ -14,7 +14,7 @@ and in our [Presentation](https://docs.google.com/presentation/d/18iHwsYymjn0AhY
 ## Team Members
 - [**Manish Sharma**](https://www.linkedin.com/in/manish-sharma-7879551a4)
 - [**Mukul Jangid**](https://www.linkedin.com/in/mukul-jangid-573a4a18b)
-- [**Rupashi Yadav**](https://www.linkedin.com/in/rupasi-yadav-1941471a4)
+- [**Rupasi Yadav**](https://www.linkedin.com/in/rupasi-yadav-1941471a4)
 - [**Samyak Bardiya**](https://www.linkedin.com/in/samyak039/)
 
 ## Technology Stack
