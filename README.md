@@ -10,12 +10,21 @@ in our own way.
 Idea is explained in depth on our [GitRepo](https://github.com/elitec0ders/incubate-ind_PDS#idea) and
 [Presentation](https://docs.google.com/presentation/d/18iHwsYymjn0AhYJ47T4YuOAbxMJKtnFXHhvLpbjGq3c/edit?usp=sharing).
 
----
 ## Table of Contents
-
-[TOC]
----
-
+- [PUBLIC DISTRIBUTION SYSTEM](#public-distribution-system)
+    - [Team Members](#team-members)
+    - [Technology Stack](#technology-stack)
+- [IDEA](#idea)
+    - [Raise funds:](#raise-funds)
+    - [Provide Jobs to Needy](#provide-jobs-to-needy)
+    - [Buy and Donate](#buy-and-donate)
+    - [Distribution System](#distribution-system)
+    - [Spread Awareness](#spread-awareness)
+        - [The things to be made aware of](#the-things-to-be-made-aware-of)
+        - [The methods to spread awareness](#the-methods-to-spread-awareness)
+    - [Vaccination](#vaccination)
+    - [Ask for volunteering](#ask-for-volunteering)
+    - [Marketing](#marketing)
 
 ## Team Members
 - [**Manish Sharma**](https://www.linkedin.com/in/manish-sharma-7879551a4)
@@ -32,7 +41,6 @@ Idea is explained in depth on our [GitRepo](https://github.com/elitec0ders/incub
 5. [Bootstrap](https://getbootstrap.com/)
 6. [MariaDB](https://mariadb.org/)
 
----
 ---
 
 # IDEA
