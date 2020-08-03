@@ -1,19 +1,20 @@
 # PUBLIC DISTRIBUTION SYSTEM
 
 A Public Distribution System designed against all the shortcomings and problems related to the
-current pandemic conditions.
-We have designed it in such a manner that it won't spread the disease further more, but will help in
-terminate it from the roots, it will help all the needy peoples and our aim will be to spread
-awareness as much as possible, so as to terminate the spreading, thus helping the frontline warriors
-in our own way.
+current pandemic conditions. We have designed it in such a manner that it won't spread the disease,
+but will help in eliminating it from the roots, it will help the needy people by making them aware
+and providing them employment, thus helping the frontline warriors in our own way. This will also
+help in circulating the upcoming Vaccines rapidly. It is designed in corruption free manner and with
+the priority to help all those who are in need. We will highlight different frontline warriors for
+there contributions and sacrifices during these tough times.
 
-Idea is explained in depth on our [GitRepo](https://github.com/elitec0ders/incubate-ind_PDS#idea) and
-[Presentation](https://docs.google.com/presentation/d/18iHwsYymjn0AhYJ47T4YuOAbxMJKtnFXHhvLpbjGq3c/edit?usp=sharing).
+In-depth idea is explained on our [GitRepo](https://github.com/elitec0ders/incubate-ind_PDS#idea)
+and in our [Presentation](https://docs.google.com/presentation/d/18iHwsYymjn0AhYJ47T4YuOAbxMJKtnFXHhvLpbjGq3c/edit?usp=sharing).
 
 ## Team Members
 - [**Manish Sharma**](https://www.linkedin.com/in/manish-sharma-7879551a4)
 - [**Mukul Jangid**](https://www.linkedin.com/in/mukul-jangid-573a4a18b)
-- [**Rupasi Yadav**](https://www.linkedin.com/in/rupasi-yadav-1941471a4)
+- [**Rupashi Yadav**](https://www.linkedin.com/in/rupasi-yadav-1941471a4)
 - [**Samyak Bardiya**](https://www.linkedin.com/in/samyak039/)
 
 ## Technology Stack
