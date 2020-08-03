@@ -10,28 +10,11 @@ in our own way.
 Idea is explained in depth on our [GitRepo](https://github.com/elitec0ders/incubate-ind_PDS#idea) and
 [Presentation](https://docs.google.com/presentation/d/18iHwsYymjn0AhYJ47T4YuOAbxMJKtnFXHhvLpbjGq3c/edit?usp=sharing).
 
-## Table of Contents
-- [PUBLIC DISTRIBUTION SYSTEM](#public-distribution-system)
-    - [Team Members](#team-members)
-    - [Technology Stack](#technology-stack)
-- [IDEA](#idea)
-    - [Raise funds:](#raise-funds)
-    - [Provide Jobs to Needy](#provide-jobs-to-needy)
-    - [Buy and Donate](#buy-and-donate)
-    - [Distribution System](#distribution-system)
-    - [Spread Awareness](#spread-awareness)
-        - [The things to be made aware of](#the-things-to-be-made-aware-of)
-        - [The methods to spread awareness](#the-methods-to-spread-awareness)
-    - [Vaccination](#vaccination)
-    - [Ask for volunteering](#ask-for-volunteering)
-    - [Marketing](#marketing)
-
 ## Team Members
 - [**Manish Sharma**](https://www.linkedin.com/in/manish-sharma-7879551a4)
 - [**Mukul Jangid**](https://www.linkedin.com/in/mukul-jangid-573a4a18b)
 - [**Rupasi Yadav**](https://www.linkedin.com/in/rupasi-yadav-1941471a4)
 - [**Samyak Bardiya**](https://www.linkedin.com/in/samyak039/)
-
 
 ## Technology Stack
 1. [PHP](https://www.php.net/)
@@ -45,7 +28,7 @@ Idea is explained in depth on our [GitRepo](https://github.com/elitec0ders/incub
 
 # IDEA
 
-## Raise funds:
+## Raise funds
 
 - Request Government to give us funds to initialize our project, we will present this same project
   to them, so that they can see our work and dedication after that give us funds accordingly.
@@ -105,7 +88,7 @@ because they are the one who are worst affected during this pandemic.
 - How to **wash hands properly**.
 - The **importance of mask**.
 - Why we should **keep a physical distance** of at least 2 meters.
-- Major **symptoms** of COVID-19.
+- Major **symptoms of COVID-19.
 
 #### The methods to spread awareness
 - Place an LCD at all the camps and will play informative videos in it at all times, it will be
@@ -116,7 +99,7 @@ because they are the one who are worst affected during this pandemic.
 ## Vaccination
 
 - Up till when the vaccines will come to the market our system will become mature enough to increase
-  it's responsibility and then we will be able to start vaccinating peoples at our camps
+  it's responsibility and then we will be able to start vaccinating peoples at our camps.
 - We will create an isolated block for this service.
 - We will hire **qualified medical students** to vaccinate peoples.
 - From our matured PDS we will be able to supply vaccines to all over the country.
@@ -125,13 +108,13 @@ because they are the one who are worst affected during this pandemic.
 
 - As we grow we will start taking helps from volunteers.
 - Before assigning them tasks we will take a personal interview of them to get a decent idea of
-  there personal nature, so as to remove any hassle in future.
+  there personal nature, so as to eliminate any future hassle.
 
 ## Marketing
 
-- We will market ourselves:
-    - as an E-commerce site for those who can afford daily needs.
-    - as a Free Distributing Organisation for anyone who is needy.
+- We will market ourselves as:
+    - an **E-commerce site** for those who can afford daily needs.
+    - a **Free Distributing Organisation** for anyone who is needy.
 - We will advertise ourselves on various social media platforms.
 - We will distribute pamphlets near the places where we setup our camps, so that more and more
   people will be aware of our Organisation and will receive maximum benefit from our services.
