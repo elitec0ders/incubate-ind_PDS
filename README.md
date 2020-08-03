@@ -89,7 +89,7 @@ because they are the one who are worst affected during this pandemic.
 - How to **wash hands properly**.
 - The **importance of mask**.
 - Why we should **keep a physical distance** of at least 2 meters.
-- Major **symptoms of COVID-19.
+- Major **symptoms of COVID-19**.
 
 #### The methods to spread awareness
 - Place an LCD at all the camps and will play informative videos in it at all times, it will be
