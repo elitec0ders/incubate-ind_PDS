@@ -1,13 +1,30 @@
 # PDS (Public distribution system)
 
-Public distribution system for poor and needy. This could be around food, medicines or any other basic essential supplies
+A Public Distribution System designed against all the shortcomings and problems related to the
+current pandemic conditions.
+We have designed it in such a manner that it won't spread the disease further more, but will help in
+terminate it from the roots, it will help all the needy peoples and our aim will be to spread
+awareness as much as possible, so as to terminate the spreading, thus helping the frontline warriors
+in our own way.
+
+Idea is explained in detail in our [GitRepo](https://github.com/elitec0ders/incubate-ind_PDS#idea) and
+[Presentation](https://docs.google.com/presentation/d/18iHwsYymjn0AhYJ47T4YuOAbxMJKtnFXHhvLpbjGq3c/edit?usp=sharing).
+
 
 ## Team Members
-
 - [**Manish Sharma**](https://www.linkedin.com/in/manish-sharma-7879551a4)
 - [**Mukul Jangid**](https://www.linkedin.com/in/mukul-jangid-573a4a18b)
 - [**Rupasi Yadav**](https://www.linkedin.com/in/rupasi-yadav-1941471a4)
 - [**Samyak Bardiya**](https://www.linkedin.com/in/samyak039/)
+
+
+## Technology Stack
+- [PHP](https://www.php.net/)
+- [HTML](https://html.spec.whatwg.org/multipage/)
+- [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
+- [JavaScript](https://www.javascript.com/)
+- [Bootstrap](https://getbootstrap.com/)
+- [MariaDB](https://mariadb.org/)
 
 
 ## IDEA
@@ -40,9 +57,12 @@ We'll try to hire those who are needy and desperate to earn a living for there f
 ### Sell to Distribute
 <!-- TODO: iski heading ka kuch idea do, thoda catchy hona chahiya -->
 
+- Our plan is to collect funds by selling goods and use the collected fund to distribute goods among
+  the needy.
 - We will be making customised masks and sanitizers to attract more and more customers.
 
-Customers will buy them and we will put all our profit in this project
+Customers will buy them and we will put all our profit in this project towards a equality minded
+future.
 
 ### Distribution System
 
