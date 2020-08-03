@@ -54,21 +54,7 @@ We'll try to hire those who are needy and desperate to earn a living for there f
 - **Educated Helpers**: to maintain the records of the people receiving our services.
 - **Helpers**: to help in our chores.
 
-## Buy and Donate
-
-Customers will buy from us, and will will donate all the profit which we will make, so in this case
-all our customers are doing charity by purchasing our products, we will invest all the profit in
-food and essentials for the needy.
-
-- We will be making customised masks and sanitizers to attract more and more customers.
-- We will also give premium services to those who can afford by making them personalised masks
-  according to there request.
-
-Customers will buy them and we will put all our profit in this project towards a **future world made
-with equality**.
-
 ## Distribution System
-<!-- TODO: need more points -->
 
 - We will setup camps near to the places where there are plenty of needy and poor peoples, and also
   in many Government Schools and Colleges in villages and suburban areas.
@@ -77,8 +63,22 @@ with equality**.
   near to the camps **keeping in mind the feasibility of our project**.
 - We will collect all our goods at the warehouse and then transport them as needed to the camps.
 - We will also deliver the products to customers doorstep from our warehouse only.
-- All the goods will be **packed in airtight packets**, so as to increase th hygiene and also
+- All the goods will be **packed in airtight packets**, so as to increase the hygiene and also
   reducing the theft.
+
+## Buy and Donate
+
+Customers will buy from us, and will donate all the profit which we will make, so in this case
+all our customers are doing charity by purchasing our products, we will invest all the profit in
+food and essentials for the needy.
+
+- We will be making customised masks and sanitizers to attract more and more customers.
+- We will also give premium services to those who can afford by making them personalised masks
+  according to there request.
+- We will be using the dropshipping method to sell the products, to increase the profit. 
+
+Customers will buy them and we will put all our profit in this project towards a **future world made
+withe equality**.
 
 ## Spread Awareness
 
